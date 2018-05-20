@@ -3,10 +3,6 @@
 >  a vue.js lucky_wheel support pc and mobile
 
 
-在线观看地址
-
-
-https://landluck.github.io/
 
 
 
@@ -16,10 +12,10 @@ https://landluck.github.io/
 
 
 # 克隆到本地
-git clone https://github.com/landluck/lucky_wheel.git
+git clone https://github.com/lixianjun0903/lucky_Turntable.git
 
 # 进入文件夹
-cd lucky_wheel
+cd lucky_Turntable
 
 # 安装依赖
 npm install
